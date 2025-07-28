@@ -1,6 +1,8 @@
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=ff8e61&height=250&section=header&text=James%20Walker&fontColor=ebdfc3&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20-%20C%2B%2B%2C%20Python&descAlignY=51&descAlign=58"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=72b368&height=200&section=header&text=James%20Walker&fontColor=ebdfc3&fontSize=45&animation=fadeIn&fontAlignY=34&desc=Software%20Engineer%20-%20C%2B%2B%2C%20Python&fontSize=12&descAlignY=49&descAlign=58"/>
 </p>
+
+## About Myself
 
 <h2> 🚀 &nbsp;Languages and Tools</h2>
 <p align="left">
