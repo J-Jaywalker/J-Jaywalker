@@ -26,7 +26,7 @@ technical_background:
     - Senior Embedded Software Engineer (Aerospace & Defence)
     - Senior Software Engineer
   
-currently_learning: [Neural Networks, Improving Async Understanding]
+currently_learning: [Neural Networks, Improving Async Understanding, chess]
 ```
   
 ---  
