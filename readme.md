@@ -1,4 +1,8 @@
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=James%20Walker&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20-%20C%2B%2B%2C%20Python&descAlignY=51&descAlign=58"/>
+</p>
+
+<h2> 🚀 &nbsp;Languages and Tools</h2>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="45" height="45"/>
