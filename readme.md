@@ -11,10 +11,10 @@ name: JJ. Walker
 title: Senior Software Engineer
 location: London, United Kingdom
 summary: >
-    Versatile Software Engineer with a people-centric mindset and strong expertise in C++, Python, and C#.
-    Experienced across various domains, thrives in both high-integrity systems and agile environments.
-    Focuses on solving problems through collaboration, clear communication, and continuous improvement.
-    Believes in building not just great software, but great teams.
+    Hi, I'm James, a Software Engineer with a people-centric mindset and strong expertise in C++ and Python.
+    I've got experienced across various industries, and can thrive anywhere from high-integrity systems to agile environments.
+    I focuses on solving problems through collaboration, clear communication, and continuous improvement.
+    Most importantly, I believes in building not just great software, but great teams.
 skills:
     - Languages [C++, Python, C#, C]
     - Frameworks [Catch2, Pytest, FastAPI]
