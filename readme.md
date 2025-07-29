@@ -11,7 +11,7 @@ name: JJ. Walker
 title: Senior Software Engineer
 location: London, United Kingdom
 summary: >
-    Hi, I'm James, a Software Engineer with a people-centric mindset and strong expertise in C++ and Python.
+    Hi, I'm JJ, a Software Engineer with a people-centric mindset and strong expertise in C++ and Python.
     I've got experienced across various industries, and can thrive anywhere from high-integrity systems to agile environments.
     I focuses on solving problems through collaboration, clear communication, and continuous improvement.
     Most importantly, I believes in building not just great software, but great teams.
@@ -24,7 +24,7 @@ industries: [Aerospace, Defence, Speech Recognition]
 technical_background:
     - Consultant Electronics and Software Engineer
     - Senior Embedded Software Engineer (Aerospace & Defence)
-    - Senior Software Engineer
+    - Senior Software Engineer (Speech Recognition)
   
 currently_learning: [Neural Networks, Improving Async Understanding, Chess]
 ```
